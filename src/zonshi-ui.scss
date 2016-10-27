@@ -1,12 +1,4 @@
 
-/* 
-
-	Name: Simple Grid - Framework
-	Version: 1.1.1
-	Author: Przemek Galarowicz & Bartek Talar ( www.przemekgalarowicz.pl or www.intelart.pl)
-	Licenses: Simple Grid - Framework can be used in personal and commercial projects. But you can not sell as your product.
-
-*/
 
 /*
 	RESET
@@ -69,44 +61,6 @@ nav ul li {
 	SIMPLE GRID - FRAMEWORK 
 
 ************************************************************************************* */
-/*
-	sg-nav
-*/
-#sg-nav-trigger {
-	background: none;
-	border-radius: 5px;
-	border: 2px solid #c49b0b;
-	cursor: pointer;
-	width: 44px;
-	height: 40px;
-}
-#sg-nav-trigger span {
-	background: #c49b0b;
-	display: block;
-	margin: 4px auto; 
-	width: 30px;
-	height: 3px;
-}
-
-#sg-nav {
-	top: 20px;
-	left: 20px;
-	position: fixed;
-}
-#sg-nav ul {
-	background: #000;
-	border-radius: 5px;
-	padding: 20px 0;
-	display: none;
-}
-#sg-nav ul li a {
-	display: inline-block;
-	font-size: 14px;
-	color: #fff;
-	text-decoration: none;
-	padding: 10px 30px;
-}
-
 
 /*
 	Grid
