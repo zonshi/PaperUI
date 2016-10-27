@@ -7,8 +7,8 @@
 		// 	"dest": "path/to/output"
 		// }
 		{
-			"src": "src/",
-			"dest": "dist/"
+			"src": "../src/",
+			"dest": "../dist/"
 		}
 	],
 
